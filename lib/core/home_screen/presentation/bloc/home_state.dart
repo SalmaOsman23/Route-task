@@ -9,3 +9,6 @@ class GetProductsLoadingState extends HomeState {}
 class GetProductsSuccessState extends HomeState {}
 
 class GetProductsErrorState extends HomeState {}
+
+class SearchResultsState extends HomeState {}
+
